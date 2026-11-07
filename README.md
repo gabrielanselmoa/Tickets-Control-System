@@ -7,9 +7,6 @@ Projeto acadêmico funcional web em Python + SQLite + HTML/CSS/JS, sem dependên
 ```bash
 python main.py
 ```
-
-Abra **http://127.0.0.1:8000**. No Windows também é possível usar `py main.py`.
-
 ## Testes
 
 ```bash
