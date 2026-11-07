@@ -1,0 +1,1 @@
+# Nenhuma dependencia externa: Python 3.10+ (biblioteca padrao)
